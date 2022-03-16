@@ -1,0 +1,17 @@
+[
+    {
+        "id" : "1",
+        "title" : "Algo",
+        "director" : "arming",
+        "año" : "1985",
+        "reating" : "8.5"
+    },
+    {
+        "id" : "2",
+        "title" : "otro",
+        "director" : "arming",
+        "año" : "1910",
+        "reating" : "10"
+    }
+
+]
